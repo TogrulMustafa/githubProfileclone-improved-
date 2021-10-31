@@ -1,0 +1,202 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.bg-gitImage {
+    background: url('./img/githubMainProfile.png') no-repeat;
+    background-size: cover;
+}
+.bg-8080808c {
+    background-color: #8080808c;
+}
+.bg-trans {
+    background-color: transparent;
+}
+.bg-green {
+    background-color: green;
+}
+.bg-fff {
+    background-color: #fff;
+}
+.p-relative {
+    position: relative;
+}
+.p-absolute {
+    position: absolute;
+}
+.top-0 {
+    top:0;
+}
+.top-4 {
+    top:4px;
+}
+.bottom-0 {
+    bottom:0;
+}
+.left-0 {
+    left:0;
+}
+.right-0 {
+    right:0;
+}
+.right-4 {
+    right:4px;
+}
+.overlay {
+    background-color: rgba(0, 0, 0, .8);
+}
+.container {
+    width:1600px;
+    margin: 0 auto;
+}
+.d-flex {
+    display: flex;
+}
+.d-iblock {
+    display: inline-block;
+}
+.d-block {
+    display: block;
+}
+.fbasis {
+    flex-basis: 5%;
+}
+.fgrow {
+    flex-grow: 1;
+}
+.col-6 {
+    width: 50%;
+}
+.col-3 {
+    width: 25%;
+}
+.column {
+    flex-direction: column;
+}
+.a-center {
+    align-items: center;
+}
+.a-start {
+    align-items: flex-start;
+}
+.a-self {
+    align-self: center;
+}
+.s-between {
+    justify-content: space-between;
+}
+.s-evenly {
+    justify-content: space-evenly;
+}
+.w-100 {
+    width: 100%;
+}
+.h-100 {
+    height: 100vh;
+}
+.h-400 {
+    height: 400px;
+}
+.tdec-none {
+    text-decoration: none;
+}
+.t-right {
+    text-align: right;
+}
+.lstyle-none {
+    list-style: none;
+}
+.color-fff {
+    color: #fff;
+}
+.color-000 {
+    color: #000;
+}
+.color-blue {
+    color: blue;
+}
+.color-grey {
+    color: grey;
+}
+.b-80808040 {
+    border: 1px solid #80808040;
+}
+.b-green {
+    border: 1px solid green;
+}
+.b-fff {
+    border: 1px solid #fff;
+}
+.b-blue {
+    border: 1px solid blue;
+}
+.b-red {
+    border: 1px solid red;
+}
+.outline-0 {
+    outline: none;
+}
+.border-0 {
+    border: none;
+}
+.mb-5 {
+    margin-bottom: 5px;
+}
+.mb-10 {
+    margin-bottom: 10px;
+}
+.mb-20 {
+    margin-bottom: 20px;
+}
+.mb-15 {
+    margin-bottom: 15px;
+}
+.mr-20 {
+    margin-right: 20px;
+}
+.mr-15 {
+    margin-right: 15px;
+}
+.mr-5 {
+    margin-right: 5px;
+}
+.py-20 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.px-10 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.p-5 {
+    padding: 5px;
+}
+.p-6 {
+    padding: 6px;
+}
+.fw-bold {
+    font-weight: bold;
+}
+.fs-50 {
+    font-size: 50px;
+}
+.fs-30 {
+    font-size: 30px;
+}
+.fs-15 {
+    font-size: 15px;
+}
+.fs-10 {
+    font-size: 10px;
+}
+.br-5 {
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.pointer {
+    cursor: pointer;
+}
